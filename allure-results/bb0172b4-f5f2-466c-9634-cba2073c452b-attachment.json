@@ -1,0 +1,14 @@
+{
+    "Date": "Fri, 06 Mar 2026 00:41:24 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Content-Encoding": "gzip",
+    "etag": "W/\"3c6-Dts21NI7mUcLx2UI1OO/UfTSBEg\"",
+    "vary": "Accept-Encoding",
+    "Set-Cookie": "sails.sid=s%3AQ8ik5ee8fKyRLPRH3P8DImwLPxJUrNog.lcHrT8LNf2%2FS%2BTZ8ozvN8YtrfH93M%2Ffzz1yYLKw%2BCTE; Path=/; HttpOnly",
+    "x-envoy-upstream-service-time": "6",
+    "cf-cache-status": "DYNAMIC",
+    "Server": "cloudflare",
+    "CF-RAY": "9d7d50859ac05a8e-DTW"
+}

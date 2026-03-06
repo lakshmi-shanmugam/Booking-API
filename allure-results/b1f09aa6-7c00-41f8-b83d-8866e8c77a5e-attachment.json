@@ -1,0 +1,12 @@
+{
+    "Content-Type": "application/json",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "0a8c43b4-71af-4af7-b46b-57f14e2c371d",
+    "Host": "postman-echo.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Cookie": "sails.sid=s%3AZ89Uy5T1whl9awZ2BKopRv8EHBps3EZj.6QamIL2qUBSkv4Z%2Filrs40OoWuq2i9OSAaUwyMSGNdw; __cf_bm=zJNZdPXGBuvSaTZ0trLQBr87F2QUlOEYf7slHtnlLbs-1772757682-1.0.1.1-S1iioHYPJS7HBeOJwRxhcVLY1pAok7FAPLWc85qZbstIn7AemHBypnOw1ceKuj1sI1AlLVteMMDN3gS26J.U5gK9TCm1niuGty.h7KNuzaU; _cfuvid=Jc5gVB6MoBoL1K7v44shYnE3FfgDKEMQu81H3HmpddE-1772757682751-0.0.1.1-604800000; skill2=test2",
+    "Content-Length": "78"
+}

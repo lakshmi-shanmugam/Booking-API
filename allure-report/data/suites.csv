@@ -1,0 +1,29 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","146","Delete Booking","Booking_1 API","2026-03-05","passed","2026-03-05","","Postive EndPoints","",""
+"","459","Get Booking Ids","Booking_1 API","2026-03-05","passed","2026-03-05","","Postive EndPoints","",""
+"","162","File Upload","Booking_1 API","2026-03-05","passed","2026-03-05","","Postive EndPoints","",""
+"","170","Get Booking Details","Booking_1 API","2026-03-05","failed","2026-03-05","","Postive EndPoints","",""
+"","150","Token Generator","Booking_1 API","2026-03-05","passed","2026-03-05","","Postive EndPoints","",""
+"","231","set Cookies API","Booking_1 API","2026-03-05","passed","2026-03-05","","Postive EndPoints","",""
+"","128","Partial Booking Copy","Booking_1 API","2026-03-05","failed","2026-03-05","","Postive EndPoints","",""
+"","401","Cookies using Postman Copy","Booking_1 API","2026-03-05","passed","2026-03-05","","Postive EndPoints","",""
+"","131","Create Booking Invalid characters Copy","Booking_1 API","2026-03-05","passed","2026-03-05","","Negative Scenarios","",""
+"","126","Get Booking Details Invalid Ids Copy","Booking_1 API","2026-03-05","passed","2026-03-05","","Negative Scenarios","",""
+"","170","File Upload using Binary","Booking_1 API","2026-03-05","passed","2026-03-05","","","",""
+"","249","Delete Cookies API","Booking_1 API","2026-03-05","passed","2026-03-05","","Postive EndPoints","",""
+"","157","Create Booking","Booking_1 API","2026-03-05","passed","2026-03-05","","Postive EndPoints","",""
+"","155","Get Cookies API","Booking_1 API","2026-03-05","passed","2026-03-05","","Postive EndPoints","",""
+"Generated from cURL: curl --location 'https://restful-booker.herokuapp.com/booking' \
+--header 'Content-Type: application/json' \
+--data '{
+    ""firstname"": ""Lakshmi"",
+    ""lastname"": ""Shanmugam"",
+    ""totalprice"": 1111,
+    ""depositpaid"": true,
+    ""bookingdates"": {
+        ""checkin"": ""2018-01-01"",
+        ""checkout"": ""2019-01-01""
+    },
+    ""additionalneeds"": ""Breakfast""
+}'","153","Curl Command Import","Booking_1 API","2026-03-05","failed","2026-03-05","","Postive EndPoints","",""
+"","148","Update Booking","Booking_1 API","2026-03-05","passed","2026-03-05","","Postive EndPoints","",""
